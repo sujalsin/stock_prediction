@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+
+=======
+*.so filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 92e4775e891de37d269e4eec8d78779584d1b90f
